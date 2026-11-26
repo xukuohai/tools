@@ -1,0 +1,5 @@
+bench_startup
+fc-trace/
+logs/
+*.csv
+*.o
